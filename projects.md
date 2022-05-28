@@ -4,4 +4,4 @@ title: "Projects"
 permalink: /projects/
 ---
 
-[Squirrel](/squirrel.md)
+[Squirrel](/squirrel/)
