@@ -1,3 +1,3 @@
 ## Window5
 
-### [Projects](/projects/)
+### [Projects](/projects.md)
