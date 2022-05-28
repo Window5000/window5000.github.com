@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: window5000.github.io
+Token: 8612072676be158be535c25ae9006d10e7f381b66aafca75318ef27df7232f78
