@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Window5
 description: Window5 website
+include: [".well-known"]
