@@ -1,1 +1,1 @@
-[Squirrel](/squirrel/)
+[Squirrel](/squirrel.md)
